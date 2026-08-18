@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">ML Engineer/Data Scientist with passion for getting solutions out of data</p>
+<p align="left">AI Engineer/Data Scientist</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Studying my senior year at New Uzbekistan University as a software engineer. Currently learning building different AI models thoroughly.</p>
+<p align="left">Data Expert</p>
 
 ###
 
